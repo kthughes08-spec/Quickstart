@@ -12,12 +12,12 @@ import com.pedropathing.panels.configurables.annotations.IgnoreConfigurable;
 import com.pedropathing.panels.configurables.PanelsConfigurables;
 import com.pedropathing.panels.telemetry.PanelsTelemetry;
 import com.pedropathing.panels.telemetry.TelemetryManager;
+
+import com.pedropathing.telemetry.SelectableOpMode;
 import com.pedropathing.follower.Follower;
-import com.pedropathing.ftc.Drawing;
 import com.pedropathing.geometry.*;
 import com.pedropathing.math.*;
 import com.pedropathing.paths.*;
-import com.pedropathing.telemetry.SelectableOpMode;
 import com.pedropathing.util.*;
 import com.qualcomm.robotcore.eventloop.opmode.*;
 
